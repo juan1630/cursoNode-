@@ -1,0 +1,13 @@
+Node js es javacript pero se ejecuta del lado del servidor, que lo vuelve un lenguaje de backend y esto le da acceso 
+a los archivos del equipo, info del S.O y procesos que se ejecutan.
+
+Corren en el motor V8 de google.
+
+Node puede trabajar con sockets, aplicaciones en tiempo real, cargas simultaneas, conexiones en tiempo real,
+Servidores locales y remotos, conexion a bases de datos, creaciòn de servicios REST.
+
+Node es demasiado ràpido y fàcil de configurar.
+
+
+Non-blocking habla de la asincronia que tiene node js frente a otros lenguajes.
+Node forma parte de un proceso que ejecuta el computador.+
