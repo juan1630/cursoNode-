@@ -1,5 +1,5 @@
 # Node js
-## Curso de node js de Fernando Herrera primera secciòn del curso, es un  repaso a las nuevas caracteristicas de javascript
+## Curso de node js de Fernando Herrera primera secciòn del curso, es un  repaso a las caracteristicas de javascript que se enlistan acontinuaciòn: 
 
 ### Explicacion de 
 - Non blocking
