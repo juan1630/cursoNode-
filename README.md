@@ -1,9 +1,9 @@
-### Node js
-## Curso de node js de Fernando Herrera primera secciòn del curso
+# Node js
+## Curso de node js de Fernando Herrera primera secciòn del curso, es un  repaso a las nuevas caracteristicas de javascript
 
 - Non blocking
 
-### Repaso de ESC 7
+### Repaso de ESC 6
 - var vs let
 - Template literales 
 - Destructuraciòn
