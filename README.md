@@ -13,5 +13,4 @@
 
 ## Instalamos nodemon 
  
- npm install -g nodemon 
- 
+ ``` npm install -g nodemon ``` 
