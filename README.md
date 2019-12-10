@@ -11,6 +11,6 @@
 - Callbacks y callbacks en cadena
 - Promesas y promesas en cadena
 
-## Instalamos nodemon 
- 
+## Instalaciones necesarias
+### Instalamos nodemon 
  ``` npm install -g nodemon ``` 
